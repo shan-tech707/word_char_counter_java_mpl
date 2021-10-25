@@ -1,0 +1,1 @@
+![word_char_counter](https://user-images.githubusercontent.com/82468072/138597804-cda1e7c6-b5a0-4367-95ed-13de0d9c2101.PNG)
